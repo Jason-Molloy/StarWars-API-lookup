@@ -1,0 +1,15 @@
+.male {
+  color: blue;
+}
+
+.female {
+  color: pink;
+}
+
+.n\/a, .none {
+  color: slategray;
+}
+
+.hermaphrodite {
+  color: burlywood;
+}
